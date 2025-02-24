@@ -1,4 +1,0 @@
-/home/programistv1/.local/share/Clipboard/resources/style.css
-/home/programistv1/.local/share/Clipboard/resources/pin-icon.svg
-/home/programistv1/.local/share/Clipboard/resources/delete-icon.svg
-/home/programistv1/.local/bin/Clipboard
